@@ -1,0 +1,65 @@
+C:\DSI\AulaPratica\MVCLinqXML\bin\roslyn\csc.exe
+C:\DSI\AulaPratica\MVCLinqXML\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DSI\AulaPratica\MVCLinqXML\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DSI\AulaPratica\MVCLinqXML\bin\roslyn\System.Collections.Immutable.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\roslyn\System.Reflection.Metadata.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\roslyn\vbc.exe
+C:\DSI\AulaPratica\MVCLinqXML\bin\roslyn\VBCSCompiler.exe
+C:\DSI\AulaPratica\MVCLinqXML\bin\roslyn\VBCSCompiler.exe.config
+C:\DSI\AulaPratica\MVCLinqXML\bin\MVCLinqXML.dll.config
+C:\DSI\AulaPratica\MVCLinqXML\bin\MVCLinqXML.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\MVCLinqXML.pdb
+C:\DSI\AulaPratica\MVCLinqXML\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\Microsoft.Web.Infrastructure.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\System.Web.Helpers.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\System.Web.Mvc.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\System.Web.Razor.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\System.Web.Webpages.Deployment.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\System.Web.Webpages.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\System.Web.Webpages.Razor.dll
+C:\DSI\AulaPratica\MVCLinqXML\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DSI\AulaPratica\MVCLinqXML\bin\System.Web.Razor.xml
+C:\DSI\AulaPratica\MVCLinqXML\bin\System.Web.Webpages.xml
+C:\DSI\AulaPratica\MVCLinqXML\bin\System.Web.Webpages.Deployment.xml
+C:\DSI\AulaPratica\MVCLinqXML\bin\System.Web.Webpages.Razor.xml
+C:\DSI\AulaPratica\MVCLinqXML\bin\System.Web.Helpers.xml
+C:\DSI\AulaPratica\MVCLinqXML\bin\System.Web.Mvc.xml
+C:\DSI\AulaPratica\MVCLinqXML\obj\Debug\MVCLinqXML.dll
+C:\DSI\AulaPratica\MVCLinqXML\obj\Debug\MVCLinqXML.pdb
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\roslyn\csc.exe
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\roslyn\vbc.exe
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\roslyn\VBCSCompiler.exe
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\MVCLinqXML.dll.config
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\MVCLinqXML.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\MVCLinqXML.pdb
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\System.Web.Helpers.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\System.Web.Mvc.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\System.Web.Razor.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\System.Web.Webpages.Deployment.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\System.Web.Webpages.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\System.Web.Webpages.Razor.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\System.Web.Razor.xml
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\System.Web.Webpages.xml
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\System.Web.Webpages.Deployment.xml
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\System.Web.Webpages.Razor.xml
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\System.Web.Helpers.xml
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\bin\System.Web.Mvc.xml
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\obj\Debug\MVCLinqXML.csprojResolveAssemblyReference.cache
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\obj\Debug\MVCLinqXML.dll
+C:\Users\cruzm\Documents\8 bim\AulaPratica\MVCLinqXML\obj\Debug\MVCLinqXML.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormXML", "WebFormXML\WebFormXML.csproj", "{219D30E7-B3F9-45E4-8DC4-F65A4349140B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCLinq", "MVCLinq\MVCLinq.csproj", "{90D35301-6CAF-46A6-BA97-313D3D1CDCA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCLinqXML", "MVCLinqXML\MVCLinqXML.csproj", "{AC5CAC2A-474B-4BD9-85D6-A24F54842EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219D30E7-B3F9-45E4-8DC4-F65A4349140B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219D30E7-B3F9-45E4-8DC4-F65A4349140B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219D30E7-B3F9-45E4-8DC4-F65A4349140B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219D30E7-B3F9-45E4-8DC4-F65A4349140B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D35301-6CAF-46A6-BA97-313D3D1CDCA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D35301-6CAF-46A6-BA97-313D3D1CDCA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D35301-6CAF-46A6-BA97-313D3D1CDCA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D35301-6CAF-46A6-BA97-313D3D1CDCA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5CAC2A-474B-4BD9-85D6-A24F54842EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5CAC2A-474B-4BD9-85D6-A24F54842EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5CAC2A-474B-4BD9-85D6-A24F54842EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5CAC2A-474B-4BD9-85D6-A24F54842EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

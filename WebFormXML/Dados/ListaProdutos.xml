@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Produtos>
+  <Produto>
+    <Id>1</Id>
+    <Nome>Prod 1</Nome>
+    <Categoria>Cat 1</Categoria>
+  </Produto>
+  <Produto>
+    <Id>2</Id>
+    <Nome>Prod 2</Nome>
+    <Categoria>Cat 2</Categoria>
+  </Produto>
+  <Produto>
+    <Id>3</Id>
+    <Nome>Prod 3</Nome>
+    <Categoria>Cat 3</Categoria>
+  </Produto>
+  <Produto>
+    <Id>4</Id>
+    <Nome>Prod 4</Nome>
+    <Categoria>Cat 4</Categoria>
+  </Produto>
+</Produtos> 
